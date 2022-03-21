@@ -93,27 +93,27 @@ button:hover {
 /* DRAWINGS */
 
 #draw-1 {
-  background: url(./images/draw-1.jpeg) center no-repeat;
+  background: url(../images/draw-1.jpeg) center no-repeat;
   background-size: cover;
 }
 
 #draw-2 {
-  background: url(./images/draw-2.jpeg) center no-repeat;
+  background: url(../images/draw-2.jpeg) center no-repeat;
   background-size: cover;
 }
 
 #draw-3 {
-  background: url(./images/draw-3.jpeg) center no-repeat;
+  background: url(../images/draw-3.jpeg) center no-repeat;
   background-size: cover;
 }
 
 #draw-4 {
-  background: url(./images/draw-4.jpeg) center no-repeat;
+  background: url(../images/draw-4.jpeg) center no-repeat;
   background-size: cover;
 }
 
 #draw-5 {
-  background: url(./images/draw-5.jpeg) center no-repeat;
+  background: url(../images/draw-5.jpeg) center no-repeat;
   background-size: cover;
 }
 
@@ -130,6 +130,7 @@ button:hover {
   padding: 0.5rem 1rem;
   position: fixed;
   width: 100%;
+  max-width: 1100px;
 }
 
 body .footer .footer-nav {
@@ -169,7 +170,7 @@ body .footer .footer-nav .nav-menu {
   }
 
   .header .profile-image {
-    background: url(./images/img-profile.jpeg) center -135px no-repeat;
+    background: url(../images/img-profile.jpeg) center -135px no-repeat;
     background-size: 140%;
   }
 
